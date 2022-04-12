@@ -1,0 +1,16 @@
+1. Game should be complete. When I imported game it actually came complete, I then proceeded to delete components
+and rebuild them according to the instructions.
+
+2 & 3. I placed a special gargoyle in front of John Lemon that uses both dot product and linear interpolation. As
+John Lemon approaches once he reaches a certain distance the Gargoyle will begin to turn. I use slerp to control
+turn speed, which essentially uses dot product and linear interpolation. My initial design I used Professor Wills 
+code he gave during lecture, and it was more clear it used dot product. 
+
+4. windows->rendering->environment has a drop down tab to which you can add fog. I used this feature to give the
+room a red fog.
+
+Help recieved: I used https://www.youtube.com/watch?v=FYVVI58SqZU&ab_channel=MaxskeDev (youtube totrial) and also the
+normal tutorial given to help me build game.
+
+Creator: Jesse Lunger
+
